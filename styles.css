@@ -1,0 +1,118 @@
+.top{
+    background-color: white;
+    height: 500px;
+    text-align: center;
+    color: black;
+    
+
+    
+}
+.middle{
+    position: absolute;
+    top: 500px;
+    width: 100%;
+    left: 0;
+    background-color: black;
+    height: 300px;
+    text-align: center;
+    color: white;
+}
+.bottom{
+    position: absolute;
+    top: 800px;
+    width: 100%;
+    background-color: white;
+    height: 800px;
+    text-align: center;
+    color: black;
+
+}
+.last{
+    text-align: left;
+    position: absolute;
+    top: 750px;
+    left: 0;
+    width: 100%;
+    height: 200px;
+    background-color:black;
+    color: white;
+}
+
+
+.image{
+    position: absolute;
+  left: 0;
+  top: 0;
+}
+.name{
+    z-index:100;
+  position: absolute;
+  color:Black;
+  font-size: 60px;
+  font-weight: bold;
+  left: 550px;
+  top: 20px;
+  font-family: 'Pacifico', cursive;
+  
+}
+.des{ z-index:100;
+    position: absolute;
+    color:Black;
+    font-size: 40px;
+    font-weight: bold;
+    left: 580px;
+    top: 140px;
+    font-family: 'Caveat', cursive;
+font-family: 'Pacifico', cursive;
+
+}
+.content{
+    z-index:100;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: oblique;
+    position: absolute;
+    color:Black;
+    font-size: 40px;
+    font-weight: bold;
+    left: 580px;
+    top: 200px;
+}
+.lang{
+    z-index:100;
+    font-family: 'Fredoka One', cursive;
+    position: absolute;
+    color:Black;
+    font-size: 60px;
+    font-weight: bold;
+    left: 450px;
+    top: 110px;
+}
+.About{
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+}
+.a{
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.dp{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.button{
+    background-color: white; /* Green */
+  border: none;
+  color:black;
+  margin-left: 10px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ 
